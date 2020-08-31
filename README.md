@@ -11,3 +11,6 @@ https://www.aliexpress.com/item/1000001872933.html
 
 128x32 OLED:
 https://www.aliexpress.com/item/32861875681.html
+
+
+![alt text](.github/QoS-2.png)
