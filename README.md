@@ -29,6 +29,7 @@ https://www.aliexpress.com/item/32861875681.html
 
 ## MQTT
 
+Level 2 Quality of Service
 ![alt text](.github/QoS-2.png)
 
 
