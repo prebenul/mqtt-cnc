@@ -6,6 +6,11 @@ git init
 git remote add origin PATH/TO/REPO
 git pull origin master
 ```
+
+
+```
+sudo cp /home/pi/mqtt-plotter.service /lib/systemd/system/
+```
 ESP32-mqtt-parser.ino - ESP-32 compatible 
 
 mqtt-plotter.service - systemd file
