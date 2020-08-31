@@ -59,6 +59,7 @@ def parseit( location ):
         s = s.replace(',)', '')
         s = s.replace('(', '')
         s = s.replace("'", '')
+        # Send data to MQTT-client
         client.publish("esp/test",s)
             
             
