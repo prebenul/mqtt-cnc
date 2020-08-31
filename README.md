@@ -1,10 +1,11 @@
 # mqtt-cnc
 
 ##RPI-commands
->git init
->git remote add origin PATH/TO/REPO
->git pull origin master
-
+```
+git init
+git remote add origin PATH/TO/REPO
+git pull origin master
+```
 ESP32-mqtt-parser.ino - ESP-32 compatible 
 
 mqtt-plotter.service - systemd file
