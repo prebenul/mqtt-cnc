@@ -21,7 +21,13 @@ https://www.aliexpress.com/item/32861875681.html
 [ESP Rotary](https://github.com/LennartHennigs/ESPRotary)
 
 [Button2](https://github.com/LennartHennigs/Button2)
+
 [SSD1306Wire](https://github.com/ThingPulse/esp8266-oled-ssd1306)
+
+[ESP32Servo](https://github.com/madhephaestus/ESP32Servo)
+
+
+## MQTT
 
 ![alt text](.github/QoS-2.png)
 
