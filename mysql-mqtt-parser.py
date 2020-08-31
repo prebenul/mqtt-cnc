@@ -72,5 +72,8 @@ while Connected != True:    #Wait for connection
     time.sleep(0.1)
  
 client.on_message = callback
-client.subscribe("rpi", qos=2)
+
+# Quality of serice level 2, four part handshake. Messages is sent exactly once.
+
+client.subscribe("rpi", qos=2) 
 client.loop_forever()
