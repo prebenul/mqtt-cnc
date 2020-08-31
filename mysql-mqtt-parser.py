@@ -55,6 +55,7 @@ def parseit( location ):
         ##s = str(record)
         s = (str(records))
         
+        # Strip the JSON to skip some overhead on the IC
         s = s.replace(',)', '')
         s = s.replace('(', '')
         s = s.replace("'", '')
