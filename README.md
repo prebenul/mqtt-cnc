@@ -32,4 +32,12 @@ https://www.aliexpress.com/item/32861875681.html
 Level 2 Quality of Service
 ![alt text](.github/QoS-2.png)
 
+## Python packages
+
+[Paho mqtt client](https://pypi.org/project/paho-mqtt/)
+
+[mysql-connector](https://pypi.org/project/mysql-connector-python/)
+
+
+
 
