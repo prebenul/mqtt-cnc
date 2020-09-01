@@ -1,12 +1,15 @@
 # mqtt-cnc
 
-##RPI-commands
+## RPI-related
 ```
 git init
 git remote add origin PATH/TO/REPO
 git pull origin master
 ```
 
+```
+sudo apt-get install mosquitto mosquitto-clients
+```
 
 ```
 sudo cp /home/pi/mqtt-plotter.service /lib/systemd/system/
